@@ -1,0 +1,1 @@
+// JavaScript funcional futuro. Por ahora vacío.
